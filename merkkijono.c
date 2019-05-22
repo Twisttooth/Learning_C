@@ -8,7 +8,7 @@ int main()
     printf("Syötä etunimesi:");
     scanf("%s", etunimi);
 
-    printf("sukunimesi:");
+    printf("Syötä sukunimesi:");
     scanf("%s", sukunimi);
 
     printf("Tiedosto johon haluat tallentaa nimesi:");
