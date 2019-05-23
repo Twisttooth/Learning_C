@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char sana[15], vokaali;
+    char sana[15]; //vokaali?
     int maara;
 
     printf("Ohjelma laskee vokaalien määriä.\nAnna sana:");
@@ -12,6 +12,7 @@ int main()
         //laskee vokaaleja? (maara+1)
     }
     
+    printf("Sanassa vokaaleja: %d", maara);
     
     return 0;
 }
